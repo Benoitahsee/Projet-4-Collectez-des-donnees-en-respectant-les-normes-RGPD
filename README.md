@@ -9,6 +9,6 @@ d'assurance en collectant les données nécessaires.
 J’ai formulé des recommandations pour la gestion des données CRM, anonymiser un fichier de données et documenter 
 le processus d'anonymisation pour demander la levée d'une sanction de la CNIL. 
 
-Compétences : Gestion de la conformité au RGPD, protection des données, raisonnement analytique.
+Compétences déceloppées : Gestion de la conformité au RGPD, protection des données, raisonnement analytique.
 
-Soft skills : Esprit critique, capacité d'organisation, communication.
+Soft skills acquis : Esprit critique, capacité d'organisation, communication.
