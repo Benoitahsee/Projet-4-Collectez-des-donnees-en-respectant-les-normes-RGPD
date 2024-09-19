@@ -20,10 +20,15 @@ le processus d'anonymisation pour demander la levée d'une sanction de la CNIL.
 **Points forts** :
 
 ❒ La requête SQL retourne les résultats demandés et est exécutée sans erreur 
+
 ❒ Justification des étapes de traitement du fichier Power Query sur la base de données brutes.
+
 ❒ Les étapes d’anonymisation et de préparation des données sont documentées.
+
 ❒ Le choix des variables et des processus de qualité dans la collecte respectent les principes du RGPD.
+
 ❒ Les 5 recommandations rédigées permettent effectivement de respecter les règles du RGPD 
+
 ❒ Les données présentées respectent la demande de la filiale sur les éléments de prix et les normes de confidentialité. 
 
 **Axes d'amélioration** :
